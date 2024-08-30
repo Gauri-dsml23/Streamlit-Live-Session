@@ -11,5 +11,5 @@ U can upload any file. Images, document, coding files.
 <u> YOU DID THAT!!!</U>
 
 
-<I>THIS IS STOCK PRICE PREDICTION...</I>
+<I>THIS IS CAR PRICE PREDICTION...</I>
 
